@@ -1,5 +1,5 @@
 # Machine Learning Archive
-[Machine Learning Archive](https://www.mlarhive.com). Code samples, Tutorials and Blog posts. 
+[Machine Learning Archive](https://www.mlarchive.com) Code samples, Tutorials and Blog posts. 
 
 ## List of Blog Posts
 | Blog Post | |
