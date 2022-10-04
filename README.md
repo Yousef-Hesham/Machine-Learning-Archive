@@ -1,7 +1,7 @@
 # Machine Learning Archive
 [Machine Learning Archive](https://www.mlarchive.com) Code samples, Tutorials and Blog posts. 
 
-<img src="Media/ML-Archive-Logo.png">
+[<img alt="Machine Learning Archive" src="Media/ML-Archive-Logo.png">](https://mlarchive.com/)
 
 
 ## List of Blog Posts
