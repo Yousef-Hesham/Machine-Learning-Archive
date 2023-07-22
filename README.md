@@ -22,4 +22,3 @@
 |#13|[Semi-Supervised Classification with Graph Convolutional Networks (GCNs)](https://mlarchive.com/deep-learning/semi-supervised-learning-gcns/)|[Code](https://github.com/Yousef-Hesham/Machine-Learning-Archive/tree/main/Semi-Supervised-Learning-GCNs)|
 |#14|[Sentiment Analysis With Random Forests](mlarchive.com/machine-learning/sentiment-analysis-with-random-forest/)|[Code](https://github.com/Yousef-Hesham/Machine-Learning-Archive/blob/main/Sentiment-Analysis-with-Random-Forests/sentment.ipynb)|
 |#15|[The Ultimate Guide to Speech Commands Recognition](https://mlarchive.com/machine-learning/the-ultimate-guide-for-speech-commands-recognition-systems/)|[Code](https://github.com/Yousef-Hesham/Machine-Learning-Archive/blob/main/The-ultimate-guide-for-speech-commands-recognition-systems/The_ultimate_guide_for_speech_commands_recognition_systems.ipynb)|
-Fake-News-Detection-With-Bert
